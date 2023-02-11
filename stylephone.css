@@ -51,7 +51,7 @@ section#login{
 }
 section#login > div#imagem{
     display: block;
-    background: var(--cor4)  url('../Midia/programing.jpg');
+    background: var(--cor4)  url('programing.jpg');
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: cover;

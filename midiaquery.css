@@ -25,7 +25,7 @@ smartWatch:
         height: 300px;
     }
     section#login > div#imagem{
-        background-image: url('../Midia/pexels-max-avans-5075791.jpg');
+        background-image: url('pexels-max-avans-5075791.jpg');
         background-position: center bottom;
         background-size: cover;
         width: 50%;
@@ -46,7 +46,7 @@ smartWatch:
         height: 300px;
     }
     section#login > div#imagem{
-        background-image: url('../Midia/pexels-max-avans-5075791.jpg');
+        background-image: url('pexels-max-avans-5075791.jpg');
         background-position: center bottom;
         background-size: cover;
         width: 50%;
